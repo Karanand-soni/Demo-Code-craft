@@ -1,2 +1,2 @@
 # Demo-Code-craft
-This is my repos
+This is my repository 
